@@ -7,7 +7,7 @@
 My name is Naum! I'm a Computer Science academic who is developing skills in software development and web programming. I'm developing projects in Node.js, React.Js, HTML, CSS and Python. I also have knowledge in network infrastructure area, like Linux servers and Docker.
 
 
-<a href="www.linkedin.com/in/NaumCS" target="_blank"><img align="left" alt="naum eu" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/naumcs/" target="_blank"><img align="left" alt="naum eu" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
 <a href="mailto:naum-celestino@gmail.com" target="_blank"><img align="left" alt="naum eu" width="22px" src="https://github.com/manassesss/try-repo/blob/main/mail%20(1).svg" /></a>
 <br/>
 ---
