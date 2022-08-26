@@ -17,6 +17,7 @@ My name is Naum! I'm a Computer Science academic who is developing skills in sof
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" alt="typescript" width="26"/> </a>
 </p>
 
 <br />
@@ -28,6 +29,7 @@ My name is Naum! I'm a Computer Science academic who is developing skills in sof
 <a href="https://www.docker.com//" target="_blank"> <img src="https://github.com/manassesss/try-repo/blob/main/Moby-logo.png" alt="docker" width="26"/>
 <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26"/> </a> 
+<a href="https://reactnative.dev/" target="_blank"> <img align="left" src="https://github.com/manassesss/try-repo/blob/main/react-native-1.svg" alt="react-native" width="30"/> </a>
 <br />
 ---
 <!--
